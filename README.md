@@ -2,4 +2,5 @@
 
 ## Webapp demo of model peformance
 
-[![Watch the video](https://img.youtube.com/vi/y9rQaH4u32I/hqdefault.jpg)](https://www.youtube.com/embed/y9rQaH4u32I)
+https://github.com/soham583/Plant-Disease-Detection/assets/66030548/19432834-29b4-40fb-ad38-5dfb996b78ef
+
