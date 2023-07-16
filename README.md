@@ -2,4 +2,5 @@
 
 ## Webapp demo of model peforrmance
 
-[![Video](https://img.youtube.com/vi/y9rQaH4u32I/maxresdefault.jpg)](https://www.youtube.com/watch?v=y9rQaH4u32I)
+[<img src="https://img.youtube.com/vi/y9rQaH4u32I/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/y9rQaH4u32I)
