@@ -5,6 +5,7 @@ from PIL import Image,ImageOps
 import numpy as np
 import pickle
 import matplotlib.pyplot as plt
+import utils
 
 st.set_option('deprecation.showfileUploaderEncoding',False)
 #@st.cache(allow_output_mutation = True)
@@ -12,10 +13,10 @@ st.set_option('deprecation.showfileUploaderEncoding',False)
 model = keras.models.load_model("model3.h5")
 
 labels = {0:'Apple: Black Rot',
- 1:'Apple: Cedar apple rust',
+ 1:'Apple: Cedar Apple Rust',
  2:'Apple: Healthy',
  3:'Apple: Scab',
- 4:'Bell Pepper: Bacterial_Spot',
+ 4:'Bell Pepper: Bacterial Spot',
  5:'Bell Pepper: Healthy',
  6:'Cherry: Healthy',
  7:'Cherry: Powdery Mildew',
@@ -58,5 +59,12 @@ if file1 is not None:
   st.image(image,use_column_width= True)
   img = preprocess(image)
   pred = np.argmax(model.predict(img))
-  string = "Plant and disease mostly is:    " + labels[pred]
-  st.success(string)
+  string = labels[pred].split(':')
+  plant = string[0]
+  disease = string[1][1:]
+  info = utils[plant[:-2]]
+  st.markdown(**Plant:** {{plant}} <br />
+              **Disease:** {{disease}} <br />
+              **Info:** <br />
+              {{info}}
+              )
