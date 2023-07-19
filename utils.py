@@ -6,7 +6,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Choose resistant varieties when possible.
         <br/>2. Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring
-        
         <br/>3. Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.
         <br/>4. Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.""",
 
@@ -16,7 +15,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Prune out dead or diseased branches.
         <br/>2. Prune out dead or diseased branches.
-        
         <br/>3. Remove infected plant material from the area.
         <br/>4. Remove infected plant material from the area.
         <br/>5. Be sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores.""",
@@ -27,7 +25,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Since the juniper galls are the source of the spores that infect the apple trees, cutting them is a sound strategy if there aren’t too many of them.
         <br/>2. While the spores can travel for miles, most of the ones that could infect your tree are within a few hundred feet.
-        
         <br/>3. The best way to do this is to prune the branches about 4-6 inches below the galls.""",
 
 
@@ -43,7 +40,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Remove and destroy sucker shoots.
         <br/>2. Keep irrigation water off developing fruit and leaves by using irrigation that does not wet the leaves. Also, keep irrigation sets as short as possible.
-        
         <br/>3. Follow cultural practices that promote good air circulation, such as pruning, and moderate shoot growth through judicious nitrogen management.""",
 
     'Cherry: Healthy': """ <b>Crop</b>: Cherry <br/>Disease: No disease<br/>
@@ -56,7 +52,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. In order to best prevent and manage corn grey leaf spot, the overall approach is to reduce the rate of disease growth and expansion.
         <br/>2. This is done by limiting the amount of secondary disease cycles and protecting leaf area from damage until after corn grain formation.
-        
         <br/>3. High risk factors for grey leaf spot in corn: <br/>
                     a.	Susceptible hybrid
                     b.	Continuous corn
@@ -92,7 +87,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Space vines properly and choose a planting site where the vines will be exposed to full sun and good air circulation. Keep the vines off the ground and insure they are properly tied, limiting the amount of time the vines remain wet thus reducing infection.
         <br/>2. Keep the fruit planting and surrounding areas free of weeds and tall grass. This practice will promote lower relative humidity and rapid drying of vines and thereby limit fungal infection.
-        
         <br/>3. Use protective fungicide sprays. Pesticides registered to protect the developing new growth include copper, captan, ferbam, mancozeb, maneb, triadimefon, and ziram. Important spraying times are as new shoots are 2 to 4 inches long, and again when they are 10 to 15 inches long, just before bloom, just after bloom, and when the fruit has set.""",
 
     'Corn: Healthy': """ <b>Crop</b>: Corn(maize) <br/>Disease: No disease<br/>
@@ -108,7 +102,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Post-infection practices (sanitation and vine surgery) for use in diseased, mature vineyards are not as effective and are far more costly than adopting preventative practices (delayed pruning, double pruning, and applications of pruning-wound protectants) in young vineyards. 
         <br/>2. Sanitation and vine surgery may help maintain yields. In spring, look for dead spurs or for stunted shoots. Later in summer, when there is a reduced chance of rainfall, practice good sanitation by cutting off these cankered portions of the vine beyond the canker, to where wood appears healthy. Then remove diseased, woody debris from the vineyard and destroy it.
-        
         <br/>3. The fungicides labeled as pruning-wound protectants, consider using alternative materials, such as a wound sealant with 5 percent boric acid in acrylic paint (Tech-Gro B-Lock), which is effective against Eutypa dieback and Esca, or an essential oil (Safecoat VitiSeal).""",
 
     'Grape: Leaf Blight': """ <b>Crop</b>: Grape <br/>Disease: Leaf Blight<br/>
@@ -118,7 +111,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Choose resistant varieties when possible.
         <br/>2. Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring
-        
         <br/>3. Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.
         <br/>4. Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.""",
 
@@ -133,7 +125,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. The most effective management strategy is the use of pathogen-free certified seeds and disease-free transplants to prevent the introduction of the pathogen into greenhouses and field production areas. Inspect plants very carefully and reject infected transplants- including your own!
         <br/>2. In transplant production greenhouses, minimize overwatering and handling of seedlings when they are wet.
-        
         <br/>3. Trays, benches, tools, and greenhouse structures should be washed and sanitized between seedlings crops.
         <br/>4. Do not spray, tie, harvest, or handle wet plants as that can spread the disease.""",
 
@@ -147,7 +138,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. The primary management strategy of bacterial spot begins with use of certified pathogen-free seed and disease-free transplants.
         <br/>2. The bacteria do not survive well once host material has decayed, so crop rotation is recommended. Once the bacteria are introduced into a field or greenhouse, the disease is very difficult to control.
-        
         <br/>3. Pepper plants are routinely sprayed with copper-containing bactericides to maintain a "protective" cover on the foliage and fruit.""",
 
     'Peach: Healthy': """ <b>Crop</b>: Peach <br/>Disease: No disease<br/>
@@ -175,7 +165,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Plant only diseasefree, certified seed. 
         <br/>2. Follow a complete and regular foliar fungicide spray program.
-        
         <br/>3. Practice good killing techniques to lessen tuber infections.
         <br/>4. Allow tubers to mature before digging, dig when vines are dry, not wet, and avoid excessive wounding of potatoes during harvesting and handling.""",
 
@@ -191,7 +180,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Seed infection is unlikely on commercially prepared tomato seed or on saved seed that has been thoroughly dried.
         <br/>2. Inspect tomato transplants for late blight symptoms prior to purchase and/or planting, as tomato transplants shipped from southern regions may be infected
-        
         <br/>3. If infection is found in only a few plants within a field, infected plants should be removed, disced-under, killed with herbicide or flame-killed to avoid spreading through the entire field.""",
 
 
@@ -202,7 +190,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Since this fungal pathogen over winters on the fallen leaves of infect plants, proper garden sanitation is key.
         <br/>2. This includes the removal of infected garden debris from the strawberry patch, as well as the frequent establishment of new strawberry transplants.
-        
         <br/>3. The avoidance of waterlogged soil and frequent garden cleanup will help to reduce the likelihood of spread of this fungus.""",
 
 
@@ -214,7 +201,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. The most effective management strategy is the use of pathogen-free certified seeds and disease-free transplants to prevent the introduction of the pathogen into greenhouses and field production areas. Inspect plants very carefully and reject infected transplants- including your own!
         <br/>2. In transplant production greenhouses, minimize overwatering and handling of seedlings when they are wet.
-        
         <br/>3. Trays, benches, tools, and greenhouse structures should be washed and sanitized between seedlings crops.
         <br/>4. Do not spray, tie, harvest, or handle wet plants as that can spread the disease""",
 
@@ -228,7 +214,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Use drip irrigation and avoid watering foliage.
         <br/>2. Space plants to provide good air movement between rows and individual plants.
-        
         <br/>3. Stake, string or prune to increase airflow in and around the plant.
         <br/>4. Sterilize stakes, ties, trellises etc. with 10 percent household bleach or commercial sanitizer.
         <br/>5. Circulate air in greenhouses or tunnels with vents and fans and by rolling up high tunnel sides to reduce humidity around plants.
@@ -245,7 +230,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Avoid early season, broad-spectrum insecticide applications for other pests.
         <br/>2. Do not over-fertilize
-        
         <br/>3. Overhead irrigation or prolonged periods of rain can help reduce populations.""",
 
 
@@ -256,7 +240,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Remove a few branches from the lower part of the plants to allow better airflow at the base
         <br/>2. Remove and burn the lower leaves as soon as the disease is seen, especially after the lower fruit trusses have been picked.
-        
         <br/>3. Keep plots free from weeds, as some may be hosts of the fungus.
         <br/>4. Do not use overhead irrigation; otherwise, it will create conditions for spore production and infection.""",
 
@@ -268,7 +251,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Currently, the most effective treatments used to control the spread of TYLCV are insecticides and resistant crop varieties.
         <br/>2. The effectiveness of insecticides is not optimal in tropical areas due to whitefly resistance against the insecticides; therefore, insecticides should be alternated or mixed to provide the most effective treatment against virus transmission.
-        
         <br/>3. Other methods to control the spread of TYLCV include planting resistant/tolerant lines, crop rotation, and breeding for resistance of TYLCV. As with many other plant viruses, one of the most promising methods to control TYLCV is the production of transgenic tomato plants resistant to TYLCV.""",
 
 
@@ -282,7 +264,6 @@ disease_dic = {
         <br/><br/> How to prevent/cure the disease <br/>
         <br/>1. Purchase transplants only from reputable sources. Ask about the sanitation procedures they use to prevent disease.
         <br/>2. Inspect transplants prior to purchase. Choose only transplants showing no clear symptoms.
-        
         <br/>3. Avoid planting in fields where tomato root debris is present, as the virus can survive long-term in roots.
         <br/>4. Wash hands with soap and water before and during the handling of plants to reduce potential spread between plants."""
 }

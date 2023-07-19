@@ -62,9 +62,8 @@ if file1 is not None:
   string = labels[pred].split(':')
   plant = string[0]
   disease = string[1][1:]
-  info = utils[plant[:-2]]
-  st.markdown(**Plant:** {{plant}} <br />
-              **Disease:** {{disease}} <br />
-              **Info:** <br />
-              {{info}}
-              )
+  info = utils.disease_dic[labels[pred]]
+  st.markdown(f'**Plant:** {plant}')
+  st.markdown(f'**Disease:** {disease}')
+  st.markdown(f'**Info:**')
+  st.markdown(f'{info}',unsafe_allow_html=True)
